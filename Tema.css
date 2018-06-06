@@ -452,8 +452,8 @@
 }
 	/*## [TAG-VIP] ##*/
 	
-       /*# [ninguem] #*/
-#user-rollover.id-000000 .level:after {
+       /*# [Nathaliaamo] #*/
+#user-rollover.id-37705864.level:after {
     background-image: url(none);
     background-repeat: no-repeat;
     content: "[VIP]";
@@ -759,8 +759,8 @@
     position: relative;
 }
         /*# [TAG-VIP] #*/
-		/*# ninguem #*/
-#chat [data-cid^='000000-'] .un:before {
+		/*# Nathaliaamo #*/
+#chat [data-cid^='37705864-'] .un:before {
     content: '[VIP]';
     top: 0px;
     Left: 0px;
